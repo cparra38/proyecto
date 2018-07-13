@@ -1,0 +1,14 @@
+# Ejemplo
+print("Christian","Parra"," 7° C ", sep="***", end="...")
+
+print("Ingeniería de Software")
+
+# Ejemplo2
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
